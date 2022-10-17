@@ -1,0 +1,33 @@
+body {
+    background-color: green;
+}
+.title {
+    text-align: center;
+}
+.description {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    margin-right: 200px;
+   
+}
+.photo {
+ float: left;
+ border-style: solid;
+ border-color: aliceblue;
+ padding: 10px 10px;
+}
+
+.descriptionmax {
+float: right;
+margin-top: 10px;
+}
+
+.student { 
+    font-size: 40px;
+    margin-top: 100px;
+    padding-top: 450px;
+}
+
+#informaçoespessoais {
+font-size: 40px;
+}
